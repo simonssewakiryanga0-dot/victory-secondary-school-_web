@@ -1,0 +1,6 @@
+{
+  "name": "Victory Secondary School - Kassanda",
+  "description": "Official portal for Victory Secondary School, Kassanda Uganda. O & A Level boarding and day school featuring student resources, parent portal, admissions, gallery, and academic milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
